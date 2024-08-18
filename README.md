@@ -61,6 +61,6 @@ Need more developement in font style, and css styling.
 - [w3school](https://www.w3school.com).
 
 ## Author
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@meghapatil1](https://www.frontendmentor.io/profile/meghapatil1)
+- Website - [Megha Patil](https://meghaspatil1.github.io/Social-links)
+- Frontend Mentor - [@meghaspatil1](https://www.frontendmentor.io/profile/meghaspatil1)
 
